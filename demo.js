@@ -14,6 +14,8 @@ let colorStates = {
 // Without JavaScript, clicking on these heart shapes does nothing. Uncomment
 // this code and refresh the demo page.
 
+//hello world
+
 let articleHearts = document.querySelectorAll(".like-glyph");
 
 function likeCallback(e) {
