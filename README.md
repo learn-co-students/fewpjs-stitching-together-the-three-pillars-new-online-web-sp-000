@@ -8,7 +8,7 @@
 - Cause a change to given code so that event listening has an effect
 
 ## Introduction
-
+##
 Knowing what web programming is and how its elements work together conceptually
 is an essential first step, but in order to help orient our upcoming lessons,
 let's see it in action. In this lesson we've provided you a simple social media
